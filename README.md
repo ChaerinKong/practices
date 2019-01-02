@@ -19,4 +19,4 @@ for (a,b) in semester:
 j = 0
 for i in average:
     j += i
-print(j)
+print('Your GPA so far:', "%0.2f"%j)
