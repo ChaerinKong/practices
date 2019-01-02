@@ -1,5 +1,3 @@
-# practices
-
 #GPA Calculator
 semester = []
 while True:
